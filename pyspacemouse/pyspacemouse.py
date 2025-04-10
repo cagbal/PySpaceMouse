@@ -508,7 +508,7 @@ device_specs = {
     "SpaceMouse Pro Wireless": DeviceSpec(
         name="SpaceMouse Pro Wireless",
         # vendor ID and product ID
-        hid_id=[0x256F, 0xC632],
+        hid_id=[0x256F, 0xC631],
         # LED HID usage code pair
         led_id=[0x8, 0x4B],
         mappings={
