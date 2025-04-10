@@ -42,7 +42,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install [pyspac
 
 ```bash
 # Install package
-pip install pyspacemouse
+pip install git+https://github.com/cagbal/PySpaceMouse.git
 
 # Only needed for ARM MacOs
 pip install git+https://github.com/bglopez/python-easyhid.git
